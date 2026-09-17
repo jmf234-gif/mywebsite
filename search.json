@@ -1,0 +1,93 @@
+[
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Welcome to My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nSep 17, 2026\n\n\nJay M. Fonticella\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "experience.html",
+    "href": "experience.html",
+    "title": "Education & Experience",
+    "section": "",
+    "text": "For the complete record, including teaching, healthcare, and leadership experience, download my full CV (PDF)."
+  },
+  {
+    "objectID": "experience.html#education",
+    "href": "experience.html#education",
+    "title": "Education & Experience",
+    "section": "Education",
+    "text": "Education\n\nCase Western Reserve University — Cleveland, OH\nPhD student, Systems Biology and Bioinformatics\n2025 – Present\nStamler Laboratory, UH Harrington Discovery Institute & CWRU Institute for Transformative Molecular Medicine\n\n\nHarvard University — Cambridge, MA\nPostbaccalaureate Fellow in Cancer Biology\n2022 – 2025\n\nDr. Liron Bar-Peled: CRISPR tiling screens elucidate electron transport chain functional domains (2023–2025)\nDr. Nika Danial: PUFA metabolism induces a cell state transition in pediatric oncohistone gliomas (2022–2023)\n\n\n\nTufts University — Medford, MA\nBachelor of Science in Biology, Summa Cum Laude; Highest Honors in Thesis\n2018 – 2022\n\nDr. Kelly McLaughlin: Morphological requirements for pre-metamorphic Xenopus laevis craniofacial remodeling"
+  },
+  {
+    "objectID": "experience.html#research-experience",
+    "href": "experience.html#research-experience",
+    "title": "Education & Experience",
+    "section": "Research Experience",
+    "text": "Research Experience\n\nMassachusetts General Hospital, Krantz Family Center for Cancer Research — Charlestown, MA\nUMB–Dana-Farber/Harvard Cancer Center U54 Fellowship\nJuly 2023 – July 2025\nRan CRISPR screens with genome-wide cysteine-targeting sgRNA libraries and mitochondrial tiling base-editing libraries, validated hits revealing a new role for the retromer complex in ROS sensing and chemotherapy resistance, and uncovered new functional domains in core metabolic enzymes.\n\n\nDana-Farber Cancer Institute, Department of Cancer Biology — Boston, MA\nHarvard GSAS, NIH-NIGMS PREP Research Scholar Initiative\nJuly 2022 – June 2023\nProfiled fatty acid repertoires in oncohistone diffuse midline gliomas by GC-MS, showing that omega-3 polyunsaturated fatty acids induce an oligodendrocyte progenitor-to-astrocyte-like cell state transition, and characterized its transcriptional programs and ferroptosis vulnerability.\n\n\nNagoya University, Institute of Transformative Bio-Molecules — Nagoya, Japan\nNSF International Research Experiences for Students (IRES)\nMay 2022 – July 2022\nScreened how ion channel inhibitors perturb PER2 transcriptional oscillations in fibroblasts, identifying two ion channels whose inhibition attenuates circadian oscillations.\n\n\nTufts University, Center for Regenerative & Developmental Biology — Medford, MA\nNSF LSAMP Program, McLaughlin Laboratory\nSeptember 2019 – May 2022\nSenior honors thesis characterizing drug-induced perturbations of craniofacial cartilage, musculature, and peripheral nerves in Xenopus laevis tadpoles.\n\n\nSENS Research Foundation, MitoSENS Engineering Team — Mountain View, CA\nMay 2021 – August 2021\nOptimized a computational pipeline predicting how point mutations in mtDNA-encoded OXPHOS proteins affect N-terminal hydrophobicity and 3D structure.\n\n\nTufts University, T-TRIPODS Institute (Cowen Laboratory) — Somerville, MA\nSeptember 2020 – July 2021\nHelped design the MEDFORD metadata markup language for coral holobiont sequencing data and coded baseline protein function prediction methods in Python.\n\n\nJohns Hopkins University School of Medicine, Pulmonary and Critical Care Medicine — Baltimore, MD\nNHLBI Summer Internship Program\nMay 2019 – July 2019\nUsed live-cell calcium imaging to show that fatty acid β-oxidation increases intracellular calcium in lung microvascular endothelial cells in a pulmonary arterial hypertension model."
+  },
+  {
+    "objectID": "experience.html#teaching-mentoring",
+    "href": "experience.html#teaching-mentoring",
+    "title": "Education & Experience",
+    "section": "Teaching & Mentoring",
+    "text": "Teaching & Mentoring\n\nDana-Farber/Harvard Cancer Center CURE Program, Instructor (2024)\nColumbia University YouCanToo Mentorship Program, Mentor (2020 – 2021)\nSan Francisco State University Science Coding Immersion Program, Team Lead (2020)\nTufts After School Tutoring Event (TASTE), Student Teacher (2018 – 2019)"
+  },
+  {
+    "objectID": "experience.html#selected-honors-fellowships",
+    "href": "experience.html#selected-honors-fellowships",
+    "title": "Education & Experience",
+    "section": "Selected Honors & Fellowships",
+    "text": "Selected Honors & Fellowships\n\nUMB–DF/HCC Partnership to Advance Cancer Health Equity (NCI PACHE) Post-baccalaureate Fellowship (2023 – 2025)\nHarvard GSAS Research Scholar Initiative (NIH PREP) Post-baccalaureate Fellowship (2022 – 2023)\nNSF International Research Experiences for Students (IRES) Fellowship (2022)\nPresidential Award for Civic Life, Tufts University (2022)\nThe Astronaut Scholarship, Astronaut Scholarship Foundation (2021)\nHealthline and Prevention Institute Stronger Scholarship in Health Equity (2021)\nNSF Louis Stokes Alliance for Minority Participation (LSAMP) Fellowship (2019 – 2021)"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome to My Blog",
+    "section": "",
+    "text": "Welcome! This blog is where I will share updates on my research in redox and nitrosative biology, notes on the computational and wet-lab methods in use, and the rollercoaster that’s bound to become the life of a PhD student at Case Western.\nMy front image depicts S-nitrosoglutathione (GSNO), a small molecule in which glutathione carries a nitric oxide group on its cysteine sulfur (represented here as a yellow atom). As an open-ended area in the field, understanding how cells and tissues recognize GSNO is the focus of my thesis work, and I look forward to writing more about it here.\nThank you so much for reading, and feel free to connect by email."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Jay M. Fonticella",
+    "section": "",
+    "text": "Greetings! My name is Jay Fonticella, and I am a second-year Systems Biology and Bioinformatics PhD student at Case Western. As an undergraduate at Tufts University, I explored the morphological pathways underlying craniofacial tissue repair in Xenopus laevis (African clawed frog), delineating how the peripheral nervous system contributes to craniofacial cartilage and muscle repair (doi: 10.3390/jdb13030026). As a post-baccalaureate at the Harvard Graduate School of Arts and Sciences, I investigated how metabolism underlies cancer cell biology and chemoresistance, demonstrating a novel mechanism whereby redox biology underpinned chemotherapy drug tolerance in ovarian cancer models (doi: 10.1038/s41586-025-08756-y)."
+  },
+  {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "Jay M. Fonticella",
+    "section": "",
+    "text": "Greetings! My name is Jay Fonticella, and I am a second-year Systems Biology and Bioinformatics PhD student at Case Western. As an undergraduate at Tufts University, I explored the morphological pathways underlying craniofacial tissue repair in Xenopus laevis (African clawed frog), delineating how the peripheral nervous system contributes to craniofacial cartilage and muscle repair (doi: 10.3390/jdb13030026). As a post-baccalaureate at the Harvard Graduate School of Arts and Sciences, I investigated how metabolism underlies cancer cell biology and chemoresistance, demonstrating a novel mechanism whereby redox biology underpinned chemotherapy drug tolerance in ovarian cancer models (doi: 10.1038/s41586-025-08756-y)."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Jay M. Fonticella",
+    "section": "About Me",
+    "text": "About Me\nNow, I am a graduate student in the Stamler laboratory based at the UH Harrington Discovery Institute and CWRU Institute for Transformative Molecular Medicine, wherein we study the functional consequences of S-nitrosylation (i.e., the reactive nitrogen species side of redox biology) on cell signaling and physiological functions.\nMy project currently focuses on delineating how S-nitrosoglutathione — one of the many macromolecules in our cells that can carry a nitric oxide (NO) functional group — is recognized in tissues and cells. By elucidating novel recognition mechanisms, my work aims to contribute to the growing literature on enzymatic mechanisms by which this post-translational modification pathway defined as S-nitrosylation can come about. To rigorously pioneer this line of work, I am collating machine learning, biophysics, genetics, and biochemistry approaches. Thank you so much for visiting, and please feel free to send me a message to learn more!\n\nDownload my CV (PDF)\n\nPictured: a ball-and-stick model of S-nitrosoglutathione (GSNO), the molecule my thesis work centers on."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "See also my profiles on ORCID and ResearchGate."
+  },
+  {
+    "objectID": "publications.html#journal-articles",
+    "href": "publications.html#journal-articles",
+    "title": "Publications",
+    "section": "Journal Articles",
+    "text": "Journal Articles\n\nJones, E., Fonticella, J.M., & McLaughlin, K.A. (2025). Identification and characterization of static craniofacial defects in pre-metamorphic Xenopus laevis tadpoles. Journal of Developmental Biology, 13, 26. doi: 10.3390/jdb13030026\nZhang, J., Ali, M.Y., Chong, H., Tien, P-C., Woods, J., Vornbäumen, T., Ordulu, Z., Noble, A., Possemato, A., Harry, S., Fonticella, J.M., …, Bardeesy, N., Mostoslavsky, R., Pépin, D., Ott, C.J., Liau, B., & Bar-Peled, L. (2025). Oxidation of retromer complex controls mitochondrial translation. Nature, 641, 1048–1058. doi: 10.1038/s41586-025-08756-y\nPhilip, N., Yun, X., Pi, H., Murray, S., Hill, Z., Fonticella, J., …, Le, A., Shimoda, L., & Suresh, K. (2024). Fatty acid metabolism promotes TRPV4 activity in lung microvascular endothelial cells in pulmonary arterial hypertension. American Journal of Physiology-Lung Cellular and Molecular Physiology, 326, 252–265. doi: 10.1152/ajplung.00199.2023\nNeyazi, S., Gowda, P., Trissal, M., Fonticella, J-M., Portero, E., Haley-Read, J-P., Anderson, E., Danial, N., & Filbin, M. (2023). DIPG-28. Identification and targeting of metabolic vulnerabilities in combination with PDGFRA-inhibition in diffuse midline glioma. Neuro-Oncology, 25, i19. doi: 10.1093/neuonc/noad073.075\nShpilker, P., Freeman, J., McKelvie, H., Ashey, J., Fonticella, J-M., Putnam, H., Greenberg, J., Cowen, L., Couch, A., & Daniels, N. (2022). MEDFORD: A human- and machine-readable metadata markup language. Database, 2022, baac065. doi: 10.1093/database/baac065\nShpilker, P., Freeman, J., McKelvie, H., Ashey, J., Fonticella, J-M., Putnam, H., Greenberg, J., Cowen, L., Couch, A., & Daniels, N. (2021). MEtaData Format for Open Reef Data (MEDFORD). Communications in Computer and Information Science, 1537, 206–211. doi: 10.1007/978-3-030-98876-0_18"
+  },
+  {
+    "objectID": "publications.html#media-features",
+    "href": "publications.html#media-features",
+    "title": "Publications",
+    "section": "Media Features",
+    "text": "Media Features\n\n“Senior Spotlight: Jay M. Fonticella,” Tufts Now, May 2022.\n“Pamies Scholarship: Shattering Barriers to Pursuing Health Professions Careers,” The SHPEP Connect Newsletter, June 2022.\n“2021 Healthline and Prevention Institute Stronger Scholarship Winner: A Chat with Jay-Miguel Fonticella,” Healthline, September 2021."
+  }
+]
