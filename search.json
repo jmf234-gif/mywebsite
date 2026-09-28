@@ -4,7 +4,126 @@
     "href": "blog.html",
     "title": "Blog",
     "section": "",
-    "text": "Welcome to My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nSep 17, 2026\n\n\nJay M. Fonticella\n\n\n\n\n\nNo matching items"
+    "text": "Who Has High Blood Pressure? Age, BMI, Sex, and Race/Ethnicity in NHANES 2017–2020\n\n\nA companion report to my PQHS 431 Project A hypertension dashboard\n\n\n\nPQHS 431\n\nNHANES\n\nhypertension\n\ndashboard\n\nR\n\n\n\nHow I built a Quarto dashboard to test four hypotheses about hypertension in NHANES adults, what I found, and what the results can and cannot tell us.\n\n\n\n\n\nSep 27, 2026\n\n\nJay M. Fonticella\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome to My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nSep 17, 2026\n\n\nJay M. Fonticella\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "See also my profiles on ORCID and ResearchGate."
+  },
+  {
+    "objectID": "publications.html#journal-articles",
+    "href": "publications.html#journal-articles",
+    "title": "Publications",
+    "section": "Journal Articles",
+    "text": "Journal Articles\n\nJones, E., Fonticella, J.M., & McLaughlin, K.A. (2025). Identification and characterization of static craniofacial defects in pre-metamorphic Xenopus laevis tadpoles. Journal of Developmental Biology, 13, 26. doi: 10.3390/jdb13030026\nZhang, J., Ali, M.Y., Chong, H., Tien, P-C., Woods, J., Vornbäumen, T., Ordulu, Z., Noble, A., Possemato, A., Harry, S., Fonticella, J.M., …, Bardeesy, N., Mostoslavsky, R., Pépin, D., Ott, C.J., Liau, B., & Bar-Peled, L. (2025). Oxidation of retromer complex controls mitochondrial translation. Nature, 641, 1048–1058. doi: 10.1038/s41586-025-08756-y\nPhilip, N., Yun, X., Pi, H., Murray, S., Hill, Z., Fonticella, J., …, Le, A., Shimoda, L., & Suresh, K. (2024). Fatty acid metabolism promotes TRPV4 activity in lung microvascular endothelial cells in pulmonary arterial hypertension. American Journal of Physiology-Lung Cellular and Molecular Physiology, 326, 252–265. doi: 10.1152/ajplung.00199.2023\nNeyazi, S., Gowda, P., Trissal, M., Fonticella, J-M., Portero, E., Haley-Read, J-P., Anderson, E., Danial, N., & Filbin, M. (2023). DIPG-28. Identification and targeting of metabolic vulnerabilities in combination with PDGFRA-inhibition in diffuse midline glioma. Neuro-Oncology, 25, i19. doi: 10.1093/neuonc/noad073.075\nShpilker, P., Freeman, J., McKelvie, H., Ashey, J., Fonticella, J-M., Putnam, H., Greenberg, J., Cowen, L., Couch, A., & Daniels, N. (2022). MEDFORD: A human- and machine-readable metadata markup language. Database, 2022, baac065. doi: 10.1093/database/baac065\nShpilker, P., Freeman, J., McKelvie, H., Ashey, J., Fonticella, J-M., Putnam, H., Greenberg, J., Cowen, L., Couch, A., & Daniels, N. (2021). MEtaData Format for Open Reef Data (MEDFORD). Communications in Computer and Information Science, 1537, 206–211. doi: 10.1007/978-3-030-98876-0_18"
+  },
+  {
+    "objectID": "publications.html#media-features",
+    "href": "publications.html#media-features",
+    "title": "Publications",
+    "section": "Media Features",
+    "text": "Media Features\n\n“Senior Spotlight: Jay M. Fonticella,” Tufts Now, May 2022.\n“Pamies Scholarship: Shattering Barriers to Pursuing Health Professions Careers,” The SHPEP Connect Newsletter, June 2022.\n“2021 Healthline and Prevention Institute Stronger Scholarship Winner: A Chat with Jay-Miguel Fonticella,” Healthline, September 2021."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Jay M. Fonticella",
+    "section": "",
+    "text": "Greetings! My name is Jay Fonticella, and I am a second-year Systems Biology and Bioinformatics PhD student at Case Western. As an undergraduate at Tufts University, I explored the morphological pathways underlying craniofacial tissue repair in Xenopus laevis (African clawed frog), delineating how the peripheral nervous system contributes to craniofacial cartilage and muscle repair (doi: 10.3390/jdb13030026). As a post-baccalaureate at the Harvard Graduate School of Arts and Sciences, I investigated how metabolism underlies cancer cell biology and chemoresistance, demonstrating a novel mechanism whereby redox biology underpinned chemotherapy drug tolerance in ovarian cancer models (doi: 10.1038/s41586-025-08756-y)."
+  },
+  {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "Jay M. Fonticella",
+    "section": "",
+    "text": "Greetings! My name is Jay Fonticella, and I am a second-year Systems Biology and Bioinformatics PhD student at Case Western. As an undergraduate at Tufts University, I explored the morphological pathways underlying craniofacial tissue repair in Xenopus laevis (African clawed frog), delineating how the peripheral nervous system contributes to craniofacial cartilage and muscle repair (doi: 10.3390/jdb13030026). As a post-baccalaureate at the Harvard Graduate School of Arts and Sciences, I investigated how metabolism underlies cancer cell biology and chemoresistance, demonstrating a novel mechanism whereby redox biology underpinned chemotherapy drug tolerance in ovarian cancer models (doi: 10.1038/s41586-025-08756-y)."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Jay M. Fonticella",
+    "section": "About Me",
+    "text": "About Me\nNow, I am a graduate student in the Stamler laboratory based at the UH Harrington Discovery Institute and CWRU Institute for Transformative Molecular Medicine, wherein we study the functional consequences of S-nitrosylation (i.e., the reactive nitrogen species side of redox biology) on cell signaling and physiological functions.\nMy project currently focuses on delineating how S-nitrosoglutathione — one of the many macromolecules in our cells that can carry a nitric oxide (NO) functional group — is recognized in tissues and cells. By elucidating novel recognition mechanisms, my work aims to contribute to the growing literature on enzymatic mechanisms by which this post-translational modification pathway defined as S-nitrosylation can come about. To rigorously pioneer this line of work, I am collating machine learning, biophysics, genetics, and biochemistry approaches. Thank you so much for visiting, and please feel free to send me a message to learn more!\n\nDownload my CV (PDF)\n\nPictured: a ball-and-stick model of S-nitrosoglutathione (GSNO), the molecule my thesis work centers on."
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome to My Blog",
+    "section": "",
+    "text": "Welcome! This blog is where I will share updates on my research in redox and nitrosative biology, notes on the computational and wet-lab methods in use, and the rollercoaster that’s bound to become the life of a PhD student at Case Western.\nMy front image depicts S-nitrosoglutathione (GSNO), a small molecule in which glutathione carries a nitric oxide group on its cysteine sulfur (represented here as a yellow atom). As an open-ended area in the field, understanding how cells and tissues recognize GSNO is the focus of my thesis work, and I look forward to writing more about it here.\nThank you so much for reading, and feel free to connect by email."
+  },
+  {
+    "objectID": "posts/hypertension-nhanes/index.html",
+    "href": "posts/hypertension-nhanes/index.html",
+    "title": "Who Has High Blood Pressure? Age, BMI, Sex, and Race/Ethnicity in NHANES 2017–2020",
+    "section": "",
+    "text": "Show the R code: setup and data loading\n# Packages used for tables in this post; the shared scripts load the rest\n# (tidyverse is loaded last inside those scripts).\nlibrary(gt)\n\n# The dashboard and this post source the SAME two scripts, so every number\n# below matches the dashboard exactly.\nsite_root &lt;- normalizePath(file.path(\"..\", \"..\"))\nsource(file.path(site_root, \"R\", \"prepare_nhanes_data.R\"))\nsource(file.path(site_root, \"R\", \"htn_analysis.R\"))\n\nhtn_data   &lt;- load_htn_data(site_root)\nprovenance &lt;- attr(htn_data, \"provenance\")\nres        &lt;- run_htn_analysis(htn_data)\n\n# Consistent table styling\nstyle_gt &lt;- function(gt_table) {\n  gt_table |&gt;\n    opt_table_font(font = list(\"Arial\", default_fonts())) |&gt;\n    tab_options(table.font.size = px(14),\n                column_labels.font.weight = \"bold\")\n}\n\n# Short names for values quoted in the text\nkpi        &lt;- res$kpi\nprev_age   &lt;- res$prev_age\nprev_sex   &lt;- res$prev_sex\nprev_race  &lt;- res$prev_race |&gt; arrange(desc(prevalence))\nprev_bmi   &lt;- res$prev_bmi\nor_tbl     &lt;- res$or_table\nrace_dir   &lt;- race_groups_by_direction(or_tbl)\nsex_diff   &lt;- res$sex_risk_diff\nperf       &lt;- res$performance\nmen        &lt;- filter(prev_sex, sex == \"Male\")\nwomen      &lt;- filter(prev_sex, sex == \"Female\")\nage_young  &lt;- filter(prev_age, age_group == \"21-39\")\nage_mid    &lt;- filter(prev_age, age_group == \"40-59\")\nage_old    &lt;- filter(prev_age, age_group == \"60-79\")\nbmi_lowest &lt;- filter(prev_bmi, bmi_cat == \"Healthy weight (18.5-24.9)\")\nbmi_top    &lt;- filter(prev_bmi, bmi_cat == \"Obesity class 2-3 (35+)\")\nrace_lrt_p &lt;- filter(res$lrt, term == \"race_eth\")$p_value"
+  },
+  {
+    "objectID": "posts/hypertension-nhanes/index.html#how-i-defined-hypertension",
+    "href": "posts/hypertension-nhanes/index.html#how-i-defined-hypertension",
+    "title": "Who Has High Blood Pressure? Age, BMI, Sex, and Race/Ethnicity in NHANES 2017–2020",
+    "section": "4.1 How I defined hypertension",
+    "text": "4.1 How I defined hypertension\nMy primary outcome follows the definition used in both NCHS reports [1, 2], which comes from the 2017 ACC/AHA guideline [3]: a participant has hypertension if their average systolic pressure is at least 130 mmHg, or their average diastolic pressure is at least 80 mmHg, or they report currently taking prescribed medicine for high blood pressure. Including medication matters: a person whose blood pressure is well controlled by treatment still has hypertension.\nI was careful not to over-read what this variable measures. NHANES measures blood pressure at a single visit, while a clinical diagnosis requires elevated readings on at least two separate occasions. My outcome is therefore a survey classification of hypertension, which is what national surveillance reports use, rather than a clinical diagnosis. Because the 130/80 threshold is newer and lower than the older 140/90 threshold from the JNC 7 report, I also repeated the main analyses with the 140/90 definition to see whether any conclusion depended on that choice."
+  },
+  {
+    "objectID": "posts/hypertension-nhanes/index.html#who-was-in-the-sample",
+    "href": "posts/hypertension-nhanes/index.html#who-was-in-the-sample",
+    "title": "Who Has High Blood Pressure? Age, BMI, Sex, and Race/Ethnicity in NHANES 2017–2020",
+    "section": "8.1 Who was in the sample?",
+    "text": "8.1 Who was in the sample?\n\n\nShow the R code\nsummarise_group &lt;- function(data) {\n  tibble(\n    `Participants, n`       = fmt_int(nrow(data)),\n    `Age, mean (SD), years` = paste0(fmt_num(mean(data$age)), \" (\",\n                                     fmt_num(sd(data$age)), \")\"),\n    `BMI, mean (SD), kg/m²` = paste0(fmt_num(mean(data$bmi)), \" (\",\n                                     fmt_num(sd(data$bmi)), \")\"),\n    `Male, %`               = fmt_pct(mean(data$sex == \"Male\")),\n    `Taking BP medicine, %` = fmt_pct(mean(data$bp_med == 1)),\n    `Mean SBP / DBP, mmHg`  = paste0(fmt_num(mean(data$sbp_mean), 0), \" / \",\n                                     fmt_num(mean(data$dbp_mean), 0))\n  )\n}\n\nbind_rows(\n  summarise_group(htn_data) |&gt; mutate(Group = \"All adults\"),\n  summarise_group(filter(htn_data, htn == 0)) |&gt; mutate(Group = \"No hypertension\"),\n  summarise_group(filter(htn_data, htn == 1)) |&gt; mutate(Group = \"Hypertension\")\n) |&gt;\n  pivot_longer(-Group, names_to = \"Characteristic\") |&gt;\n  pivot_wider(names_from = Group, values_from = value) |&gt;\n  gt() |&gt;\n  style_gt()\n\n\n\n\nTable 3: Characteristics of the analytic sample, overall and by hypertension status (unweighted).\n\n\n\n\n\n\n\n\n\nCharacteristic\nAll adults\nNo hypertension\nHypertension\n\n\n\n\nParticipants, n\n7,019\n3,187\n3,832\n\n\nAge, mean (SD), years\n49.4 (16.0)\n41.7 (14.8)\n55.8 (14.0)\n\n\nBMI, mean (SD), kg/m²\n30.2 (7.6)\n28.6 (7.2)\n31.6 (7.6)\n\n\nMale, %\n49.2%\n45.2%\n52.5%\n\n\nTaking BP medicine, %\n28.8%\n0.0%\n52.8%\n\n\nMean SBP / DBP, mmHg\n124 / 75\n111 / 69\n134 / 81\n\n\n\n\n\n\n\n\n\n\nThe sample includes 7,019 adults with a mean age of 49.4 years and a mean BMI of 30.2 kg/m². Overall, 54.6% (90% CI 53.6% to 55.6%) met the 130/80 definition of hypertension, and 28.8% reported taking blood-pressure medicine. Under the older 140/90 definition, prevalence was 39.6%. These are percentages of this unweighted sample, so they should not be compared directly with the survey-weighted national estimates in the NCHS reports.\n\n\nShow the R code\nplot_composition(htn_data, race_eth, NULL, horizontal = TRUE)\n\n\n\n\n\n\n\n\nFigure 1: Race/ethnicity of the analytic sample. NHANES over-samples several groups, so these shares differ from the U.S. population."
+  },
+  {
+    "objectID": "posts/hypertension-nhanes/index.html#h1-age",
+    "href": "posts/hypertension-nhanes/index.html#h1-age",
+    "title": "Who Has High Blood Pressure? Age, BMI, Sex, and Race/Ethnicity in NHANES 2017–2020",
+    "section": "8.2 H1: Age",
+    "text": "8.2 H1: Age\n\n\nShow the R code\nplot_prevalence(prev_age, \"age_group\", \"Age group (years)\")\n\n\n\n\n\n\n\n\nFigure 2: Hypertension prevalence by age group, with 90% Wilson confidence intervals.\n\n\n\n\n\nPrevalence rose from 26.4% among adults aged 21–39 to 57.7% among those aged 40–59 and 77.9% among those aged 60–79 (Cochran–Armitage trend test p &lt; 0.001). After adjusting for BMI, sex, and race/ethnicity, each additional 10 years of age was associated with 1.94 times the odds (90% CI 1.88 to 2.01), i.e., 94% higher odds. H1 was supported."
+  },
+  {
+    "objectID": "posts/hypertension-nhanes/index.html#h2-body-mass-index",
+    "href": "posts/hypertension-nhanes/index.html#h2-body-mass-index",
+    "title": "Who Has High Blood Pressure? Age, BMI, Sex, and Race/Ethnicity in NHANES 2017–2020",
+    "section": "8.3 H2: Body mass index",
+    "text": "8.3 H2: Body mass index\n\nShow the R code\nplot_bmi_histogram(htn_data)\nplot_bmi_by_htn(htn_data)\n\n\n\n\n\n\n\n\n\n\n\n\n(a) Distribution of BMI\n\n\n\n\n\n\n\n\n\n\n\n(b) BMI by hypertension status\n\n\n\n\n\n\n\nFigure 3: Distribution of BMI and BMI by hypertension status. Dashed lines in (a) mark the CDC category cut-points.\n\n\n\n\n\nShow the R code\nplot_prevalence(prev_bmi, \"bmi_cat\", \"BMI category (kg/m²)\") +\n  scale_x_discrete(labels = function(x) str_replace(x, \" \\\\(\", \"\\n(\"))\n\n\n\n\n\n\n\n\nFigure 4: Hypertension prevalence by BMI category, with 90% Wilson confidence intervals.\n\n\n\n\n\nBMI is right-skewed, with a long tail of high values. Adults classified as having hypertension had a mean BMI 2.9 kg/m² higher than adults without it (90% CI 2.6 to 3.2; Welch t-test p &lt; 0.001), and the medians differed in the same direction (30.3 vs. 27.4 kg/m²). Prevalence rose from 39.8% at a healthy weight to 67.9% among adults with class 2–3 obesity (trend test p &lt; 0.001). In the adjusted model, each additional 5 kg/m² of BMI was associated with 1.39 times the odds (90% CI 1.34 to 1.44), i.e., 39% higher odds. H2 was supported."
+  },
+  {
+    "objectID": "posts/hypertension-nhanes/index.html#h3-biological-sex",
+    "href": "posts/hypertension-nhanes/index.html#h3-biological-sex",
+    "title": "Who Has High Blood Pressure? Age, BMI, Sex, and Race/Ethnicity in NHANES 2017–2020",
+    "section": "8.4 H3: Biological sex",
+    "text": "8.4 H3: Biological sex\n\n\nShow the R code\nplot_prevalence(prev_sex, \"sex\", \"Sex\")\n\n\n\n\n\n\n\n\nFigure 5: Hypertension prevalence by sex, with 90% Wilson confidence intervals.\n\n\n\n\n\nHypertension prevalence was 58.3% in men and 51.0% in women, a difference of 7.2 percentage points (90% CI 5.3 to 9.2; p &lt; 0.001). After adjustment, men had 1.51 times the odds (90% CI 1.38 to 1.65), i.e., 51% higher odds compared with women. H3 was supported."
+  },
+  {
+    "objectID": "posts/hypertension-nhanes/index.html#h4-raceethnicity",
+    "href": "posts/hypertension-nhanes/index.html#h4-raceethnicity",
+    "title": "Who Has High Blood Pressure? Age, BMI, Sex, and Race/Ethnicity in NHANES 2017–2020",
+    "section": "8.5 H4: Race/ethnicity",
+    "text": "8.5 H4: Race/ethnicity\n\n\nShow the R code\nplot_prevalence(prev_race, \"race_eth\", NULL, horizontal = TRUE)\n\n\n\n\n\n\n\n\nFigure 6: Hypertension prevalence by race/ethnicity (unadjusted), with 90% Wilson confidence intervals.\n\n\n\n\n\nUnadjusted prevalence ranged from 43.8% among Mexican American adults to 65.5% among Non-Hispanic Black adults (chi-square test p &lt; 0.001). After adjustment for age, BMI, and sex, the overall likelihood-ratio test for race/ethnicity gave p &lt; 0.001. Compared with Non-Hispanic White adults, the adjusted odds were clearly higher for Non-Hispanic Black, Non-Hispanic Asian and Other/Multiracial and clearly lower for Mexican American; the interval included 1 for Other Hispanic. H4 was supported."
+  },
+  {
+    "objectID": "posts/hypertension-nhanes/index.html#putting-the-factors-together-logistic-regression",
+    "href": "posts/hypertension-nhanes/index.html#putting-the-factors-together-logistic-regression",
+    "title": "Who Has High Blood Pressure? Age, BMI, Sex, and Race/Ethnicity in NHANES 2017–2020",
+    "section": "8.6 Putting the factors together: logistic regression",
+    "text": "8.6 Putting the factors together: logistic regression\n\n\nShow the R code\nor_tbl |&gt;\n  transmute(\n    Predictor  = label,\n    Unadjusted = fmt_or(crude_or, crude_low, crude_high),\n    Adjusted   = fmt_or(adj_or, adj_low, adj_high),\n    `p-value`  = fmt_p(adj_p)\n  ) |&gt;\n  gt() |&gt;\n  tab_spanner(label = paste0(\"Odds ratio (\", ci_label, \")\"),\n              columns = c(Unadjusted, Adjusted)) |&gt;\n  tab_source_note(paste0(\"n = \", fmt_int(perf$n),\n                         \". Adjusted model includes all four variables.\")) |&gt;\n  style_gt()\n\n\n\n\nTable 4: Unadjusted and adjusted odds ratios for hypertension (primary 130/80 definition). Profile-likelihood 90% confidence intervals.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPredictor\n\nOdds ratio (90% CI)\n\np-value\n\n\nUnadjusted\nAdjusted\n\n\n\n\nAge (per 10 years)\n1.88 (1.83 to 1.94)\n1.94 (1.88 to 2.01)\n&lt; 0.001\n\n\nBMI (per 5 kg/m²)\n1.32 (1.28 to 1.36)\n1.39 (1.34 to 1.44)\n&lt; 0.001\n\n\nMale (vs. female)\n1.34 (1.24 to 1.45)\n1.51 (1.38 to 1.65)\n&lt; 0.001\n\n\nNon-Hispanic Black (vs. Non-Hispanic White)\n1.66 (1.49 to 1.84)\n1.97 (1.75 to 2.22)\n&lt; 0.001\n\n\nMexican American (vs. Non-Hispanic White)\n0.68 (0.59 to 0.78)\n0.83 (0.71 to 0.97)\n0.044\n\n\nOther Hispanic (vs. Non-Hispanic White)\n0.86 (0.75 to 0.99)\n0.95 (0.81 to 1.12)\n0.611\n\n\nNon-Hispanic Asian (vs. Non-Hispanic White)\n0.80 (0.70 to 0.92)\n1.30 (1.11 to 1.51)\n0.005\n\n\nOther/Multiracial (vs. Non-Hispanic White)\n0.95 (0.79 to 1.15)\n1.37 (1.10 to 1.70)\n0.019\n\n\n\nn = 7,019. Adjusted model includes all four variables.\n\n\n\n\n\n\n\n\n\n\n\n\n\nShow the R code\nplot_forest(res$or_compare)\n\n\n\n\n\n\n\n\nFigure 7: Adjusted odds ratios from the primary model (blue) and the 140/90 sensitivity model (orange). The dashed line marks an odds ratio of 1 (no association).\n\n\n\n\n\n\n\nShow the R code\nplot_predictions(res$predictions)\n\n\n\n\n\n\n\n\nFigure 8: Model-predicted probability of hypertension by age and BMI, for Non-Hispanic White women and men (the reference race/ethnicity group). Shaded bands are 90% confidence intervals.\n\n\n\n\n\nThe adjusted model shows how the four factors work together. Comparing the unadjusted and adjusted columns of Table 4 shows how much each association changes once the other variables are held constant. Differences between the two columns are expected for race/ethnicity in particular, because the groups have different age and BMI distributions. The predicted-probability curves in Figure 8 translate the odds ratios back into probabilities, which are easier to interpret: the gap between BMI curves shows the BMI effect at every age.\nThe model separated people with and without hypertension reasonably well (C-statistic 0.789), and across ten deciles of predicted risk, observed and predicted prevalence differed by at most 3.0 percentage points.\n\n\nShow the R code\nplot_calibration(res$calibration)\n\n\n\n\n\n\n\n\nFigure 9: Calibration of the primary model: observed prevalence (with 90% CIs) against mean predicted probability in ten deciles of predicted risk. Points on the dashed line indicate perfect agreement."
+  },
+  {
+    "objectID": "posts/hypertension-nhanes/index.html#sensitivity-analysis",
+    "href": "posts/hypertension-nhanes/index.html#sensitivity-analysis",
+    "title": "Who Has High Blood Pressure? Age, BMI, Sex, and Race/Ethnicity in NHANES 2017–2020",
+    "section": "8.7 Sensitivity analysis",
+    "text": "8.7 Sensitivity analysis\nSome estimates change direction or significance under the stricter 140/90 mmHg threshold: Mexican American (vs. Non-Hispanic White) and Other Hispanic (vs. Non-Hispanic White). Those particular results depend on the definition used. Under the 140/90 definition, overall prevalence in the sample was 39.6% rather than 54.6%, as expected for a higher threshold.\n\n\nShow the R code\nres$hypotheses |&gt;\n  transmute(Hypothesis = hypothesis, Evidence = evidence, Verdict = verdict) |&gt;\n  gt() |&gt;\n  tab_style(style = cell_text(weight = \"bold\"),\n            locations = cells_body(columns = Verdict)) |&gt;\n  style_gt()\n\n\n\n\nTable 5: Summary of the four hypotheses (decision rule: α = 0.10 and a 90% CI that excludes 1).\n\n\n\n\n\n\n\n\n\nHypothesis\nEvidence\nVerdict\n\n\n\n\nH1: Older adults have a higher prevalence of hypertension.\nTrend test p &lt; 0.001; adjusted OR per 10 years 1.94 (1.88 to 2.01)\nSupported\n\n\nH2: Higher BMI is associated with a higher prevalence of hypertension.\nTrend test p &lt; 0.001; adjusted OR per 5 kg/m² 1.39 (1.34 to 1.44)\nSupported\n\n\nH3: Hypertension prevalence differs by biological sex.\nChi-square p &lt; 0.001; adjusted OR (male vs. female) 1.51 (1.38 to 1.65)\nSupported (higher odds in men)\n\n\nH4: Hypertension prevalence differs across race/ethnicity groups.\nChi-square p &lt; 0.001; adjusted likelihood-ratio test p &lt; 0.001\nSupported"
+  },
+  {
+    "objectID": "posts/hypertension-nhanes/index.html#session-information",
+    "href": "posts/hypertension-nhanes/index.html#session-information",
+    "title": "Who Has High Blood Pressure? Age, BMI, Sex, and Race/Ethnicity in NHANES 2017–2020",
+    "section": "13.1 Session information",
+    "text": "13.1 Session information\n\n\nShow the R code\nxfun::session_info()\n\n\nNA R version 4.6.1 (2026-06-24)\nNA Platform: aarch64-apple-darwin23\nNA Running under: macOS Sequoia 15.5\nNA \nNA Locale: en_US.UTF-8 / en_US.UTF-8 / en_US.UTF-8 / C / en_US.UTF-8 / en_US.UTF-8\nNA \nNA Package version:\nNA   askpass_1.2.1       backports_1.5.1     base64enc_0.1-6    \nNA   bigD_0.3.1          bit_4.6.0           bit64_4.8.6        \nNA   bitops_1.1.0        blob_1.3.0          broom_1.0.13       \nNA   bslib_0.12.0        cachem_1.1.0        callr_3.8.0        \nNA   cellranger_1.1.0    cli_3.6.6           clipr_0.8.1        \nNA   commonmark_2.0.0    compiler_4.6.1      conflicted_1.2.0   \nNA   cpp11_0.5.5         crayon_1.5.3        curl_8.0.0         \nNA   data.table_1.18.6.1 DBI_1.3.0           dbplyr_2.6.0       \nNA   digest_0.6.39       dplyr_1.2.1         dtplyr_1.3.3       \nNA   evaluate_1.0.5      farver_2.1.2        fastmap_1.2.0      \nNA   fontawesome_0.5.3   forcats_1.0.1       foreign_0.8-91     \nNA   fs_2.1.0            gargle_1.6.1        generics_0.1.4     \nNA   ggplot2_4.0.3       glue_1.8.1          googledrive_2.1.2  \nNA   googlesheets4_1.1.2 graphics_4.6.1      grDevices_4.6.1    \nNA   grid_4.6.1          gt_1.3.0            gtable_0.3.6       \nNA   haven_2.5.5         highr_0.12          hms_1.1.4          \nNA   htmltools_0.5.9     htmlwidgets_1.6.4   httr_1.4.9         \nNA   ids_1.0.1           isoband_0.3.0       janitor_2.2.1      \nNA   jquerylib_0.1.4     jsonlite_2.0.0      juicyjuice_0.1.0   \nNA   knitr_1.52          labeling_0.4.3      lifecycle_1.0.5    \nNA   litedown_0.11       lubridate_1.9.5     magrittr_2.0.5     \nNA   markdown_2.0        memoise_2.0.1       methods_4.6.1      \nNA   mime_0.13           modelr_0.1.11       nhanesA_1.4.1      \nNA   openssl_2.4.2       otel_0.2.0          pillar_1.11.1      \nNA   pkgconfig_2.0.3     plyr_1.8.9          prettyunits_1.2.0  \nNA   processx_3.9.0      progress_1.2.3      ps_1.9.3           \nNA   purrr_1.2.2         R6_2.6.1            ragg_1.5.2         \nNA   rappdirs_0.3.4      RColorBrewer_1.1-3  Rcpp_1.1.2         \nNA   reactable_0.4.5     reactR_0.6.1        readr_2.2.0        \nNA   readxl_1.5.0.1      rematch_2.0.0       rematch2_2.1.2     \nNA   reprex_2.1.1        rlang_1.3.0         rmarkdown_2.32     \nNA   rstudioapi_0.19.0   rvest_1.0.5         S7_0.2.2           \nNA   sass_0.4.10         scales_1.4.0        selectr_0.7.0      \nNA   snakecase_0.11.1    stats_4.6.1         stats4_4.6.1       \nNA   stringi_1.8.9       stringr_1.6.0       sys_3.4.3          \nNA   systemfonts_1.3.2   textshaping_1.0.5   tibble_3.3.1       \nNA   tidyr_1.3.2         tidyselect_1.2.1    tidyverse_2.0.0    \nNA   timechange_0.4.0    tinytex_0.61        tools_4.6.1        \nNA   tzdb_0.5.0          utf8_1.2.6          utils_4.6.1        \nNA   uuid_1.2.2          V8_8.2.0            vctrs_0.7.3        \nNA   viridisLite_0.4.3   vroom_1.7.1         withr_3.0.3        \nNA   xfun_0.61           xml2_1.6.0          yaml_2.3.12"
   },
   {
     "objectID": "experience.html",
@@ -40,54 +159,5 @@
     "title": "Education & Experience",
     "section": "Selected Honors & Fellowships",
     "text": "Selected Honors & Fellowships\n\nUMB–DF/HCC Partnership to Advance Cancer Health Equity (NCI PACHE) Post-baccalaureate Fellowship (2023 – 2025)\nHarvard GSAS Research Scholar Initiative (NIH PREP) Post-baccalaureate Fellowship (2022 – 2023)\nNSF International Research Experiences for Students (IRES) Fellowship (2022)\nPresidential Award for Civic Life, Tufts University (2022)\nThe Astronaut Scholarship, Astronaut Scholarship Foundation (2021)\nHealthline and Prevention Institute Stronger Scholarship in Health Equity (2021)\nNSF Louis Stokes Alliance for Minority Participation (LSAMP) Fellowship (2019 – 2021)"
-  },
-  {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome to My Blog",
-    "section": "",
-    "text": "Welcome! This blog is where I will share updates on my research in redox and nitrosative biology, notes on the computational and wet-lab methods in use, and the rollercoaster that’s bound to become the life of a PhD student at Case Western.\nMy front image depicts S-nitrosoglutathione (GSNO), a small molecule in which glutathione carries a nitric oxide group on its cysteine sulfur (represented here as a yellow atom). As an open-ended area in the field, understanding how cells and tissues recognize GSNO is the focus of my thesis work, and I look forward to writing more about it here.\nThank you so much for reading, and feel free to connect by email."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Jay M. Fonticella",
-    "section": "",
-    "text": "Greetings! My name is Jay Fonticella, and I am a second-year Systems Biology and Bioinformatics PhD student at Case Western. As an undergraduate at Tufts University, I explored the morphological pathways underlying craniofacial tissue repair in Xenopus laevis (African clawed frog), delineating how the peripheral nervous system contributes to craniofacial cartilage and muscle repair (doi: 10.3390/jdb13030026). As a post-baccalaureate at the Harvard Graduate School of Arts and Sciences, I investigated how metabolism underlies cancer cell biology and chemoresistance, demonstrating a novel mechanism whereby redox biology underpinned chemotherapy drug tolerance in ovarian cancer models (doi: 10.1038/s41586-025-08756-y)."
-  },
-  {
-    "objectID": "index.html#welcome",
-    "href": "index.html#welcome",
-    "title": "Jay M. Fonticella",
-    "section": "",
-    "text": "Greetings! My name is Jay Fonticella, and I am a second-year Systems Biology and Bioinformatics PhD student at Case Western. As an undergraduate at Tufts University, I explored the morphological pathways underlying craniofacial tissue repair in Xenopus laevis (African clawed frog), delineating how the peripheral nervous system contributes to craniofacial cartilage and muscle repair (doi: 10.3390/jdb13030026). As a post-baccalaureate at the Harvard Graduate School of Arts and Sciences, I investigated how metabolism underlies cancer cell biology and chemoresistance, demonstrating a novel mechanism whereby redox biology underpinned chemotherapy drug tolerance in ovarian cancer models (doi: 10.1038/s41586-025-08756-y)."
-  },
-  {
-    "objectID": "index.html#about-me",
-    "href": "index.html#about-me",
-    "title": "Jay M. Fonticella",
-    "section": "About Me",
-    "text": "About Me\nNow, I am a graduate student in the Stamler laboratory based at the UH Harrington Discovery Institute and CWRU Institute for Transformative Molecular Medicine, wherein we study the functional consequences of S-nitrosylation (i.e., the reactive nitrogen species side of redox biology) on cell signaling and physiological functions.\nMy project currently focuses on delineating how S-nitrosoglutathione — one of the many macromolecules in our cells that can carry a nitric oxide (NO) functional group — is recognized in tissues and cells. By elucidating novel recognition mechanisms, my work aims to contribute to the growing literature on enzymatic mechanisms by which this post-translational modification pathway defined as S-nitrosylation can come about. To rigorously pioneer this line of work, I am collating machine learning, biophysics, genetics, and biochemistry approaches. Thank you so much for visiting, and please feel free to send me a message to learn more!\n\nDownload my CV (PDF)\n\nPictured: a ball-and-stick model of S-nitrosoglutathione (GSNO), the molecule my thesis work centers on."
-  },
-  {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
-    "section": "",
-    "text": "See also my profiles on ORCID and ResearchGate."
-  },
-  {
-    "objectID": "publications.html#journal-articles",
-    "href": "publications.html#journal-articles",
-    "title": "Publications",
-    "section": "Journal Articles",
-    "text": "Journal Articles\n\nJones, E., Fonticella, J.M., & McLaughlin, K.A. (2025). Identification and characterization of static craniofacial defects in pre-metamorphic Xenopus laevis tadpoles. Journal of Developmental Biology, 13, 26. doi: 10.3390/jdb13030026\nZhang, J., Ali, M.Y., Chong, H., Tien, P-C., Woods, J., Vornbäumen, T., Ordulu, Z., Noble, A., Possemato, A., Harry, S., Fonticella, J.M., …, Bardeesy, N., Mostoslavsky, R., Pépin, D., Ott, C.J., Liau, B., & Bar-Peled, L. (2025). Oxidation of retromer complex controls mitochondrial translation. Nature, 641, 1048–1058. doi: 10.1038/s41586-025-08756-y\nPhilip, N., Yun, X., Pi, H., Murray, S., Hill, Z., Fonticella, J., …, Le, A., Shimoda, L., & Suresh, K. (2024). Fatty acid metabolism promotes TRPV4 activity in lung microvascular endothelial cells in pulmonary arterial hypertension. American Journal of Physiology-Lung Cellular and Molecular Physiology, 326, 252–265. doi: 10.1152/ajplung.00199.2023\nNeyazi, S., Gowda, P., Trissal, M., Fonticella, J-M., Portero, E., Haley-Read, J-P., Anderson, E., Danial, N., & Filbin, M. (2023). DIPG-28. Identification and targeting of metabolic vulnerabilities in combination with PDGFRA-inhibition in diffuse midline glioma. Neuro-Oncology, 25, i19. doi: 10.1093/neuonc/noad073.075\nShpilker, P., Freeman, J., McKelvie, H., Ashey, J., Fonticella, J-M., Putnam, H., Greenberg, J., Cowen, L., Couch, A., & Daniels, N. (2022). MEDFORD: A human- and machine-readable metadata markup language. Database, 2022, baac065. doi: 10.1093/database/baac065\nShpilker, P., Freeman, J., McKelvie, H., Ashey, J., Fonticella, J-M., Putnam, H., Greenberg, J., Cowen, L., Couch, A., & Daniels, N. (2021). MEtaData Format for Open Reef Data (MEDFORD). Communications in Computer and Information Science, 1537, 206–211. doi: 10.1007/978-3-030-98876-0_18"
-  },
-  {
-    "objectID": "publications.html#media-features",
-    "href": "publications.html#media-features",
-    "title": "Publications",
-    "section": "Media Features",
-    "text": "Media Features\n\n“Senior Spotlight: Jay M. Fonticella,” Tufts Now, May 2022.\n“Pamies Scholarship: Shattering Barriers to Pursuing Health Professions Careers,” The SHPEP Connect Newsletter, June 2022.\n“2021 Healthline and Prevention Institute Stronger Scholarship Winner: A Chat with Jay-Miguel Fonticella,” Healthline, September 2021."
   }
 ]

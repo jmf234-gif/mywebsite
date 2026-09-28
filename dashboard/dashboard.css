@@ -1,0 +1,9 @@
+/* Task B dashboard: value boxes use dark, color-blind-distinguishable
+   backgrounds with white text so every KPI meets WCAG AA contrast (>= 4.5:1). */
+.bslib-value-box,
+.bslib-value-box .value-box-title,
+.bslib-value-box .value-box-value,
+.bslib-value-box .value-box-showcase {
+  color: #ffffff !important;
+}
+.bslib-value-box .value-box-title { font-weight: 600; }

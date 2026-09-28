@@ -90,9 +90,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-date','listing-title','listing-author','listing-subtitle','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
+      searchColumns: ["listing-date","listing-title","listing-author","listing-subtitle","listing-image","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -339,6 +339,23 @@ window.Quarto = {
     <a class="nav-link active" href="./blog.html" aria-current="page"> 
 <span class="menu-text">Blog</span></a>
   </li>  
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-project-a" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+      <i class="bi bi-clipboard-data" role="img">
+</i> 
+ <span class="menu-text">Project A</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-project-a">    
+        <li>
+    <a class="dropdown-item" href="./dashboard/hypertension_dashboard.html">
+ <span class="dropdown-text">Hypertension Dashboard</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./posts/hypertension-nhanes/index.html">
+ <span class="dropdown-text">Dashboard Blog Post</span></a>
+  </li>  
+    </ul>
+  </li>
   <li class="nav-item">
     <a class="nav-link" href="./files/Fonticella_CV.pdf"> <i class="bi bi-file-earmark-pdf" role="img">
 </i> 
@@ -379,7 +396,7 @@ window.Quarto = {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(1)</span></div><div class="category" data-category="bmV3cw==">news <span class="quarto-category-count">(1)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(2)</span></div><div class="category" data-category="ZGFzaGJvYXJk">dashboard <span class="quarto-category-count">(1)</span></div><div class="category" data-category="aHlwZXJ0ZW5zaW9u">hypertension <span class="quarto-category-count">(1)</span></div><div class="category" data-category="bmV3cw==">news <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TkhBTkVT">NHANES <span class="quarto-category-count">(1)</span></div><div class="category" data-category="UFFIUyUyMDQzMQ==">PQHS 431 <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Ug==">R <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content column-page-left" id="quarto-document-content">
 
@@ -409,7 +426,48 @@ window.Quarto = {
 
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="bmV3cw==" data-listing-date-sort="1789617600000" data-listing-file-modified-sort="1789661918492" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="111">
+<div class="quarto-post image-right" data-index="0" data-categories="UFFIUyUyMDQzMSUyQ05IQU5FUyUyQ2h5cGVydGVuc2lvbiUyQ2Rhc2hib2FyZCUyQ1I=" data-listing-date-sort="1790481600000" data-listing-file-modified-sort="1790618375032" data-listing-date-modified-sort="1790618375000" data-listing-reading-time-sort="25" data-listing-word-count-sort="4926">
+<div class="thumbnail"><a href="./posts/hypertension-nhanes/index.html" class="no-external">
+
+<p class="card-img-top"><img loading='lazy' src="posts/hypertension-nhanes/index_files/figure-html/fig-race-1.png" alt="Horizontal bar chart of participant counts and percentages for six race and ethnicity groups."  class="thumbnail-image card-img"/></p>
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/hypertension-nhanes/index.html" class="no-external">Who Has High Blood Pressure? Age, BMI, Sex, and Race/Ethnicity in NHANES 2017–2020</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./posts/hypertension-nhanes/index.html" class="no-external">A companion report to my PQHS 431 Project A hypertension dashboard</a>
+</div>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('UFFIUyUyMDQzMQ=='); return false;">PQHS 431</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('TkhBTkVT'); return false;">NHANES</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('aHlwZXJ0ZW5zaW9u'); return false;">hypertension</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('ZGFzaGJvYXJk'); return false;">dashboard</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('Ug=='); return false;">R</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/hypertension-nhanes/index.html" class="no-external">
+<p>How I built a Quarto dashboard to test four hypotheses about hypertension in NHANES adults, what I found, and what the results can and cannot tell us.</p>
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/hypertension-nhanes/index.html" class="no-external">
+<div class="listing-date">
+Sep 27, 2026
+</div>
+<div class="listing-author">
+Jay M. Fonticella
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-categories="bmV3cw==" data-listing-date-sort="1789617600000" data-listing-file-modified-sort="1789661918492" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="111">
 <div class="thumbnail"><a href="./posts/welcome/index.html" class="no-external">
 
 <img loading="lazy" src="./images/gsno.png" class="thumbnail-image">
@@ -419,6 +477,9 @@ window.Quarto = {
 <h3 class="no-anchor listing-title">
 <a href="./posts/welcome/index.html" class="no-external">Welcome to My Blog</a>
 </h3>
+<div class="listing-subtitle">
+<a href="./posts/welcome/index.html" class="no-external"></a>
+</div>
 <div class="listing-categories">
 
 <div class="listing-category" onclick="window.quartoListingCategory('bmV3cw=='); return false;">news</div>
